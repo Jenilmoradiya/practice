@@ -18,7 +18,7 @@ public class Sort {
 			}
 		}
 		for(int i:a) {
-			System.out.println(i);
+			System.out.println(i+"1");
 		}
 	}
 
